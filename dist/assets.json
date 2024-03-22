@@ -1,0 +1,81 @@
+{
+  "_chunk-!~{006}~.js": {
+    "file": "assets/static/onPageTransitionStart.C0Wrw6FH.css",
+    "src": "_chunk-!~{006}~.js"
+  },
+  "_chunk-Ca9mLVfT.js": {
+    "file": "assets/chunks/chunk-Ca9mLVfT.js",
+    "name": "useData",
+    "imports": [
+      "_chunk-efTI6-Ph.js"
+    ]
+  },
+  "_chunk-efTI6-Ph.js": {
+    "file": "assets/chunks/chunk-efTI6-Ph.js",
+    "name": "_onPageTransitionStart",
+    "css": [
+      "assets/static/onPageTransitionStart.C0Wrw6FH.css"
+    ],
+    "assets": [
+      "assets/static/logo.2_7Lo9tV.svg"
+    ]
+  },
+  "assets/logo.svg": {
+    "file": "assets/static/logo.2_7Lo9tV.svg",
+    "src": "assets/logo.svg"
+  },
+  "node_modules/.pnpm/vike@0.4.166_vite@5.2.2/node_modules/vike/dist/esm/client/client-routing-runtime/entry.js": {
+    "file": "assets/entries/entry-client-routing.oDIrUXxx.js",
+    "name": "entries/entry-client-routing",
+    "src": "node_modules/.pnpm/vike@0.4.166_vite@5.2.2/node_modules/vike/dist/esm/client/client-routing-runtime/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "virtual:vike:pageConfigValuesAll:client:/pages/_error",
+      "virtual:vike:pageConfigValuesAll:client:/pages/index",
+      "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/@id",
+      "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/index"
+    ]
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/_error": {
+    "file": "assets/entries/pages_error.BsUqPDmM.js",
+    "name": "entries/pages/_error",
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/_error",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-efTI6-Ph.js"
+    ]
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/index": {
+    "file": "assets/entries/pages_index.DuCf47tI.js",
+    "name": "entries/pages/index",
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/index",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-efTI6-Ph.js"
+    ]
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/@id": {
+    "file": "assets/entries/pages_star-wars_-id.DmA49Fnp.js",
+    "name": "entries/pages/star-wars/@id",
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/@id",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-efTI6-Ph.js",
+      "_chunk-Ca9mLVfT.js"
+    ]
+  },
+  "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/index": {
+    "file": "assets/entries/pages_star-wars_index.BLFy3r9C.js",
+    "name": "entries/pages/star-wars/index",
+    "src": "virtual:vike:pageConfigValuesAll:client:/pages/star-wars/index",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-efTI6-Ph.js",
+      "_chunk-Ca9mLVfT.js"
+    ]
+  }
+}
