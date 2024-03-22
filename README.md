@@ -1,3 +1,5 @@
+The error is in ./pages/index/+Page.tsx
+
 This app has been created with [Bati](https://batijs.github.io) using the following flags: `--react --express`
 
 # About this app
