@@ -1,6 +1,5 @@
 
-### Routing
-Reproduction
+### Reproduction
  - Install mui `pnpm install @mui/material @emotion/react @emotion/styled`
  - Install vite-plugin-cjs-interop `pnpm i vite-plugin-cjs-interop`
  - Set `ssr({ prerender: true })`, and `cjsInterop({ dependencies: [ "@mui/material/Paper", ] })`, in `vite.config.ts`
