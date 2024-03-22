@@ -9,9 +9,6 @@ export default defineConfig({
       react({}), 
       cjsInterop({
         dependencies: [
-          // Add problematic npm package here
-          "@mui/icons-material/Menu",
-          "@mui/icons-material/Edit",
           "@mui/material/Paper",
         ]
       }),

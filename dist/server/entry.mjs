@@ -137,7 +137,7 @@ const pageFiles = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.definePro
     "src": "assets/logo.svg"
   },
   "node_modules/.pnpm/vike@0.4.166_vite@5.2.2/node_modules/vike/dist/esm/client/client-routing-runtime/entry.js": {
-    "file": "assets/entries/entry-client-routing.oDIrUXxx.js",
+    "file": "assets/entries/entry-client-routing.D8KcdxRB.js",
     "name": "entries/entry-client-routing",
     "src": "node_modules/.pnpm/vike@0.4.166_vite@5.2.2/node_modules/vike/dist/esm/client/client-routing-runtime/entry.js",
     "isEntry": true,
@@ -159,7 +159,7 @@ const pageFiles = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.definePro
     ]
   },
   "virtual:vike:pageConfigValuesAll:client:/pages/index": {
-    "file": "assets/entries/pages_index.DuCf47tI.js",
+    "file": "assets/entries/pages_index.DINocy6a.js",
     "name": "entries/pages/index",
     "src": "virtual:vike:pageConfigValuesAll:client:/pages/index",
     "isEntry": true,

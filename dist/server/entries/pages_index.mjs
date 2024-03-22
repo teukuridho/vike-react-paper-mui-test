@@ -1,8 +1,9 @@
+var _a, _b;
 import { onRenderHtml } from "vike-react/renderer/onRenderHtml";
 import { H as HeadDefault, L as LayoutDefault } from "../chunks/chunk-DlTIHVkx.js";
 import { jsxs, Fragment, jsx } from "react/jsx-runtime";
 import { useState } from "react";
-import { Paper } from "@mui/material";
+import __cjsInterop1__ from "@mui/material/Paper/index.js";
 import "vike-react/usePageContext";
 function Counter() {
   const [count, setCount] = useState(0);
@@ -11,6 +12,7 @@ function Counter() {
     count
   ] });
 }
+const { default: Paper = __cjsInterop1__ } = ((_b = (_a = __cjsInterop1__) == null ? void 0 : _a.default) == null ? void 0 : _b.__esModule) ? __cjsInterop1__.default : __cjsInterop1__;
 function Page() {
   return /* @__PURE__ */ jsxs(Fragment, { children: [
     /* @__PURE__ */ jsx("h1", { children: "My Vike app" }),
